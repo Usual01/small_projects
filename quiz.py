@@ -40,7 +40,7 @@ else:
     print("incorrect")
 print("fred swaniker established alx in 2018")
 
-answer.lower = input("Are ALX courses self paced?\n")
+answer.lower() = input("Are ALX courses self paced?\n")
 if answer == "yes":
     print("correct")
 else:
